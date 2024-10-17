@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fire-Game/static/css/main.f11027a1.css",
+    "main.js": "/Fire-Game/static/js/main.4ede2feb.js",
+    "index.html": "/Fire-Game/index.html",
+    "main.f11027a1.css.map": "/Fire-Game/static/css/main.f11027a1.css.map",
+    "main.4ede2feb.js.map": "/Fire-Game/static/js/main.4ede2feb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f11027a1.css",
+    "static/js/main.4ede2feb.js"
+  ]
+}
